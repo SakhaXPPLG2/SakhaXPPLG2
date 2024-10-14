@@ -1,5 +1,5 @@
 <h1>Halo, nama saya Sakha Allkoesyah</h1>
-<p>dari kelas</p>
+<p>dari kelas X PPLG 2</p>
 <p>Saya lahir tanggal 16 April 2009</p>
 <p>Saya sekolah di SMK Letris Indonesia 2</p>
 <p>Tempat tinggal saya di Villa pamulang</p>
